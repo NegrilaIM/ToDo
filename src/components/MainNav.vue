@@ -30,6 +30,10 @@ export default {
                 {
                     name: 'Contact',
                     path: '/contact'
+                },
+                {
+                    name: 'Blog',
+                    path: '/blog'
                 }
             ]
         }
